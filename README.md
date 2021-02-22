@@ -1,7 +1,7 @@
 # Project
 Portfolio at work
 
-#藍芽相關作品介紹
+# 藍芽相關作品介紹
 
 1. HiFiMan Bluetooth Headset and Speaker
 
