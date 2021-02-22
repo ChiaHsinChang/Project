@@ -1,5 +1,3 @@
-# Project
-Portfolio at work
 
 # 藍芽相關作品介紹
 
