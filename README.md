@@ -1,7 +1,7 @@
 
 # 藍芽相關作品介紹
 
-# 1. HIFIMAN Bluetooth Headset and Speaker
+## 1. HIFIMAN Bluetooth Headset and Speaker
 
 **DEVA** bluetooth receiver
 
