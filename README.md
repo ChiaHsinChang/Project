@@ -12,7 +12,6 @@ A bluetooth receiver for a wired headset.
 ![alt tag](https://i.imgur.com/ynskBp9.jpg)
 
 **ANANDA** wiredless headset
-A wiredless headset
 
 [check the product online](https://hifiman.com/products/detail/290)
 
@@ -24,5 +23,10 @@ A wiredless headset
 
 ![alt tag](https://i.imgur.com/LD5gubo.jpg)
 
-3.  
-4.  
+## 2. HIFIMAN Bluetooth Headset and Speaker
+
+**DROP PANDA** wiredless headset
+
+[check the product online](https://drop.com/buy/drop-wireless-headphones/story)
+
+  
