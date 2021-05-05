@@ -23,7 +23,7 @@ A bluetooth receiver for a wired headset.
 
 ![alt tag](https://i.imgur.com/LD5gubo.jpg)
 
-## 2. HIFIMAN Bluetooth Headset and Speaker
+## 2. Drop Bluetooth Headset
 
 **DROP PANDA** wiredless headset
 
