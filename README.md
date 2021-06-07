@@ -29,7 +29,7 @@ A bluetooth receiver for a wired headset.
 
 [check the product online](https://drop.com/buy/drop-wireless-headphones/story)
 
-![alt tag](https://i.imgur.com/LD5gubo.jpg)
+![alt tag](https://i.imgur.com/QWsZWBC.png)
 
 
   
